@@ -1,0 +1,30 @@
+.nav {
+  width: 20%;
+  height: 100%;
+  background-color: #dcee9c;
+  float: left;
+}
+
+.jaedong_Pic {
+  width: 50%;
+  text-align: center;
+  margin: 10px auto auto;
+  display: block;
+  border-radius: 30%;
+}
+
+.nav > ul {
+  padding: 0;
+  margin-top: 10%;
+}
+
+.nav > ul > li {
+  height: 100%;
+  line-height: 30px;
+  display: block;
+  padding: 20px 20px;
+  font-size: 20px;
+  color: #555;
+  text-align: center;
+  cursor: pointer;
+}

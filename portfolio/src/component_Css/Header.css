@@ -1,0 +1,15 @@
+.App_Header {
+  border-bottom: 5px dashed #eee;
+}
+
+.Header_h1 {
+  font-weight: 200;
+}
+
+.Header_h2 {
+  font-weight: 300;
+}
+
+.My_Name {
+  color: rgb(189, 133, 133);
+}
