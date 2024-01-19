@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.eb899c25.css",
+    "main.js": "/portfolio/static/js/main.d2a6f5da.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/BMJUA_otf.otf": "/portfolio/static/media/BMJUA_otf.900a7b419c1f295c08bd.otf",
+    "static/media/One_Coin_Sum.png": "/portfolio/static/media/One_Coin_Sum.f6ddd04bf50d1b1d4664.png",
+    "static/media/kakao api.png": "/portfolio/static/media/kakao api.6bdfda815df9b412f0ae.png",
+    "static/media/JaeDong.jpg": "/portfolio/static/media/JaeDong.6ebf0c8f387f70b76bce.jpg",
+    "static/media/payment.png": "/portfolio/static/media/payment.8b3a5feb083766c2da2b.png",
+    "static/media/CRUD.png": "/portfolio/static/media/CRUD.16c588cec567180df754.png",
+    "static/media/search.png": "/portfolio/static/media/search.ca438079dcea4e0a5717.png",
+    "static/media/Login.png": "/portfolio/static/media/Login.5088bb741251f623a658.png",
+    "static/media/id_forget.png": "/portfolio/static/media/id_forget.0a4ec335d8f62df99aeb.png",
+    "index.html": "/portfolio/index.html",
+    "main.eb899c25.css.map": "/portfolio/static/css/main.eb899c25.css.map",
+    "main.d2a6f5da.js.map": "/portfolio/static/js/main.d2a6f5da.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb899c25.css",
+    "static/js/main.d2a6f5da.js"
+  ]
+}
